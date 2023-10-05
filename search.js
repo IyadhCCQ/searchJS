@@ -1,3 +1,4 @@
+console.log("Hi");
 document.addEventListener('DOMContentLoaded', function () {
     var searchInput = document.getElementById('searchInput');
     var resultsContainer = document.getElementById('results');
